@@ -6,7 +6,8 @@
   "main": "index.js",
 	"now": {
 		"name": "burfield-stocks-server",
-		"alias": "burfield-stocks-server.com",
+		"alias": "burfield-stocks-server.com"
+	},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
 		"dev": "nf run NODE_ENV=development nodemon server.js",
